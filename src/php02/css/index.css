@@ -1,0 +1,31 @@
+.serch-form__content{
+    margin:0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.serch-form__title{
+    text-align: center;
+}
+
+.search-form{
+    display: flex;
+    justify-content: center;
+}
+
+.search-form__btn{
+    margin-left: 10px;
+}
+
+
+.search-form__item-select{
+    width: 300px;
+    height: 30px;
+}
+
+.search-form__button-submit{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
