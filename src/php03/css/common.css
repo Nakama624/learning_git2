@@ -1,0 +1,21 @@
+.header{
+    margin: 0 auto;
+    width: 1230px;
+    margin-bottom: 30px;
+}
+
+.header__inner{
+    background: black;
+    padding:20px 0;
+    height: 80px;
+    
+}
+
+.header__logo{
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+    margin-left: 80px;
+    font-weight: bolder;
+    font-size: 24px;
+}
